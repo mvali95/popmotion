@@ -51,7 +51,7 @@
     "popmotion": "^8.4.0",
     "prismjs": "^1.6.0",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2",
+    "react-dom": "^16.4.2",
     "react-intersection": "^1.0.5",
     "react-live": "^1.7.0",
     "react-pose": "^3.3.4",
