@@ -30,7 +30,7 @@
     "@types/react-native": "^0.55.4",
     "prettier": "1.11.1",
     "typescript": "^2.9.2",
-    "webpack": "^3.11.0"
+    "webpack": "^5.75.0"
   },
   "prettier": {
     "parser": "typescript",
